@@ -34,7 +34,7 @@ if (!$handle)
 while (($line = fgets($handle, 4096)) !== false) {
 	$exp = explode("=", $line); 
 	$country = trim(str_replace("\"", "", $exp[0])); 
-	$lang_country = str_replace("\"", "", $exp[0]); 
+	$lang_country = str_replace("\"", "", $exp[1]); 
 	$lang_country = str_replace(";", "", $lang_country ); 
 
 	$str = "

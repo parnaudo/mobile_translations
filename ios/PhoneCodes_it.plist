@@ -6,7 +6,7 @@
            <key>code</key>
            <string>+39</string>
            <key>country<key>
-           <string>Italy</string>
+           <string>Italia</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -18,7 +18,7 @@
            <key>code</key>
            <string>+41</string>
            <key>country<key>
-           <string>Switzerland</string>
+           <string>Svizzera</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -66,25 +66,25 @@
            <key>code</key>
            <string>+1 268</string>
            <key>country<key>
-           <string>Antigua and Barbuda</string>
+           <string>Antigua e Barbuda</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+596</string>
            <key>country<key>
-           <string>French Antilles</string>
+           <string>Antille Francesi</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+599</string>
            <key>country<key>
-           <string>Netherlands Antilles</string>
+           <string>Antille olandesi</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+966</string>
            <key>country<key>
-           <string>Saudi Arabia</string>
+           <string>Arabia Saudita</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -114,7 +114,7 @@
            <key>code</key>
            <string>+1 808</string>
            <key>country<key>
-           <string>Midway Island</string>
+           <string>Atollo di Midway</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -168,7 +168,7 @@
            <key>code</key>
            <string>+32</string>
            <key>country<key>
-           <string>Belgium</string>
+           <string>Belgio</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -198,7 +198,7 @@
            <key>code</key>
            <string>+375</string>
            <key>country<key>
-           <string>Belarus</string>
+           <string>Bielorussia</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -210,7 +210,7 @@
            <key>code</key>
            <string>+387</string>
            <key>country<key>
-           <string>Bosnia and Herzegovina</string>
+           <string>Bosnia-Erzegovina</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -222,7 +222,7 @@
            <key>code</key>
            <string>+55</string>
            <key>country<key>
-           <string>Brazil</string>
+           <string>Brasile</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -252,13 +252,13 @@
            <key>code</key>
            <string>+855</string>
            <key>country<key>
-           <string>Cambodia</string>
+           <string>Cambogia</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+237</string>
            <key>country<key>
-           <string>Cameroon</string>
+           <string>Camerun</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -270,31 +270,31 @@
            <key>code</key>
            <string>+238</string>
            <key>country<key>
-           <string>Cape Verde</string>
+           <string>Capo Verde</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+235</string>
            <key>country<key>
-           <string>Chad</string>
+           <string>Ciad</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+56</string>
            <key>country<key>
-           <string>Chile</string>
+           <string>Cile</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+86</string>
            <key>country<key>
-           <string>China</string>
+           <string>Cina</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+537</string>
            <key>country<key>
-           <string>Cyprus</string>
+           <string>Cipro</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -306,13 +306,13 @@
            <key>code</key>
            <string>+269</string>
            <key>country<key>
-           <string>Comoros</string>
+           <string>Comore</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+243</string>
            <key>country<key>
-           <string>Congo, Dem. Rep. of (Zaire)</string>
+           <string>Congo, Rep. Dem. del (Zaire)</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -324,31 +324,31 @@
            <key>code</key>
            <string>+850</string>
            <key>country<key>
-           <string>North Korea</string>
+           <string>Corea del Nord</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+82</string>
            <key>country<key>
-           <string>South Korea</string>
+           <string>Corea del Sud</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+225</string>
            <key>country<key>
-           <string>Ivory Coast</string>
+           <string>Costa d'Avorio</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+506</string>
            <key>country<key>
-           <string>Costa Rica</string>
+           <string>Costarica</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+385</string>
            <key>country<key>
-           <string>Croatia</string>
+           <string>Croazia</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -360,13 +360,13 @@
            <key>code</key>
            <string>+599</string>
            <key>country<key>
-           <string>Curacao</string>
+           <string>Curaçao</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+45</string>
            <key>country<key>
-           <string>Denmark</string>
+           <string>Danimarca</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -390,7 +390,7 @@
            <key>code</key>
            <string>+20</string>
            <key>country<key>
-           <string>Egypt</string>
+           <string>Egitto</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -402,7 +402,7 @@
            <key>code</key>
            <string>+971</string>
            <key>country<key>
-           <string>United Arab Emirates</string>
+           <string>Emirati Arabi Uniti</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -420,31 +420,31 @@
            <key>code</key>
            <string>+251</string>
            <key>country<key>
-           <string>Ethiopia</string>
+           <string>Etiopia</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+679</string>
            <key>country<key>
-           <string>Fiji</string>
+           <string>Figi</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+63</string>
            <key>country<key>
-           <string>Philippines</string>
+           <string>Filippine</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+358</string>
            <key>country<key>
-           <string>Finland</string>
+           <string>Finlandia</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+33</string>
            <key>country<key>
-           <string>France</string>
+           <string>Francia</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -462,7 +462,7 @@
            <key>code</key>
            <string>+500</string>
            <key>country<key>
-           <string>South Georgia and the South Sandwich Islands</string>
+           <string>Georgia del Sud e Isole Sandwich Meridionali</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -474,7 +474,7 @@
            <key>code</key>
            <string>+49</string>
            <key>country<key>
-           <string>Germany</string>
+           <string>Germania</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -486,37 +486,37 @@
            <key>code</key>
            <string>+1 876</string>
            <key>country<key>
-           <string>Jamaica</string>
+           <string>Giamaica</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+81</string>
            <key>country<key>
-           <string>Japan</string>
+           <string>Giappone</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+350</string>
            <key>country<key>
-           <string>Gibraltar</string>
+           <string>Gibilterra</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+253</string>
            <key>country<key>
-           <string>Djibouti</string>
+           <string>Gibuti</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+962</string>
            <key>country<key>
-           <string>Jordan</string>
+           <string>Giordania</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+30</string>
            <key>country<key>
-           <string>Greece</string>
+           <string>Grecia</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -528,13 +528,13 @@
            <key>code</key>
            <string>+299</string>
            <key>country<key>
-           <string>Greenland</string>
+           <string>Groenlandia</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+590</string>
            <key>country<key>
-           <string>Guadeloupe</string>
+           <string>Guadalupa</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -552,7 +552,7 @@
            <key>code</key>
            <string>+240</string>
            <key>country<key>
-           <string>Equatorial Guinea</string>
+           <string>Guinea Equatoriale</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -570,7 +570,7 @@
            <key>code</key>
            <string>+594</string>
            <key>country<key>
-           <string>French Guiana</string>
+           <string>Guyana Francese</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -594,7 +594,7 @@
            <key>code</key>
            <string>+852</string>
            <key>country<key>
-           <string>Hong Kong SAR China</string>
+           <string>Hong Kong</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -624,109 +624,109 @@
            <key>code</key>
            <string>+353</string>
            <key>country<key>
-           <string>Ireland</string>
+           <string>Irlanda</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+354</string>
            <key>country<key>
-           <string>Iceland</string>
+           <string>Islanda</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+61</string>
            <key>country<key>
-           <string>Christmas Island</string>
+           <string>Isola di Natale</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+56</string>
            <key>country<key>
-           <string>Easter Island</string>
+           <string>Isola di Pasqua</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+1 808</string>
            <key>country<key>
-           <string>Wake Island</string>
+           <string>Isola di Wake</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+672</string>
            <key>country<key>
-           <string>Norfolk Island</string>
+           <string>Isola Norfolk</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+ 345</string>
            <key>country<key>
-           <string>Cayman Islands</string>
+           <string>Isole Cayman</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+61</string>
            <key>country<key>
-           <string>Cocos-Keeling Islands</string>
+           <string>Isole Cocos-Keeling</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+682</string>
            <key>country<key>
-           <string>Cook Islands</string>
+           <string>Isole Cook</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+500</string>
            <key>country<key>
-           <string>Falkland Islands</string>
+           <string>Isole Falkland</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+298</string>
            <key>country<key>
-           <string>Faroe Islands</string>
+           <string>Isole Faroe</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+1 670</string>
            <key>country<key>
-           <string>Northern Mariana Islands</string>
+           <string>Isole Marianne Settentrionali</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+692</string>
            <key>country<key>
-           <string>Marshall Islands</string>
+           <string>Isole Marshall</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+677</string>
            <key>country<key>
-           <string>Solomon Islands</string>
+           <string>Isole Salomone</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+1 340</string>
            <key>country<key>
-           <string>U.S. Virgin Islands</string>
+           <string>Isole Vergini Americane</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+1 284</string>
            <key>country<key>
-           <string>British Virgin Islands</string>
+           <string>Isole Vergini Britanniche</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+972</string>
            <key>country<key>
-           <string>Israel</string>
+           <string>Israele</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+7 7</string>
            <key>country<key>
-           <string>Kazakhstan</string>
+           <string>Kazakistan</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -738,7 +738,7 @@
            <key>code</key>
            <string>+996</string>
            <key>country<key>
-           <string>Kyrgyzstan</string>
+           <string>Kirghizistan</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -768,13 +768,13 @@
            <key>code</key>
            <string>+371</string>
            <key>country<key>
-           <string>Latvia</string>
+           <string>Lettonia</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+961</string>
            <key>country<key>
-           <string>Lebanon</string>
+           <string>Libano</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -786,7 +786,7 @@
            <key>code</key>
            <string>+218</string>
            <key>country<key>
-           <string>Libya</string>
+           <string>Libia</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -798,19 +798,19 @@
            <key>code</key>
            <string>+370</string>
            <key>country<key>
-           <string>Lithuania</string>
+           <string>Lituania</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+352</string>
            <key>country<key>
-           <string>Luxembourg</string>
+           <string>Lussemburgo</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+853</string>
            <key>country<key>
-           <string>Macau SAR China</string>
+           <string>Macao</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -834,13 +834,13 @@
            <key>code</key>
            <string>+960</string>
            <key>country<key>
-           <string>Maldives</string>
+           <string>Maldive</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+60</string>
            <key>country<key>
-           <string>Malaysia</string>
+           <string>Malesia</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -858,13 +858,13 @@
            <key>code</key>
            <string>+212</string>
            <key>country<key>
-           <string>Morocco</string>
+           <string>Marocco</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+596</string>
            <key>country<key>
-           <string>Martinique</string>
+           <string>Martinica</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -888,7 +888,7 @@
            <key>code</key>
            <string>+52</string>
            <key>country<key>
-           <string>Mexico</string>
+           <string>Messico</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -900,7 +900,7 @@
            <key>code</key>
            <string>+373</string>
            <key>country<key>
-           <string>Moldova</string>
+           <string>Moldavia</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -984,19 +984,19 @@
            <key>code</key>
            <string>+47</string>
            <key>country<key>
-           <string>Norway</string>
+           <string>Norvegia</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+687</string>
            <key>country<key>
-           <string>New Caledonia</string>
+           <string>Nuova Caledonia</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+64</string>
            <key>country<key>
-           <string>New Zealand</string>
+           <string>Nuova Zelanda</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -1008,7 +1008,7 @@
            <key>code</key>
            <string>+31</string>
            <key>country<key>
-           <string>Netherlands</string>
+           <string>Paesi Bassi</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -1032,7 +1032,7 @@
            <key>code</key>
            <string>+675</string>
            <key>country<key>
-           <string>Papua New Guinea</string>
+           <string>Papua Nuova Guinea</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -1044,31 +1044,31 @@
            <key>code</key>
            <string>+51</string>
            <key>country<key>
-           <string>Peru</string>
+           <string>Perù</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+689</string>
            <key>country<key>
-           <string>French Polynesia</string>
+           <string>Polinesia Francese</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+48</string>
            <key>country<key>
-           <string>Poland</string>
+           <string>Polonia</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+351</string>
            <key>country<key>
-           <string>Portugal</string>
+           <string>Portogallo</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+1 787</string>
            <key>country<key>
-           <string>Puerto Rico</string>
+           <string>Portorico</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -1080,25 +1080,25 @@
            <key>code</key>
            <string>+44</string>
            <key>country<key>
-           <string>United Kingdom</string>
+           <string>Regno Unito</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+420</string>
            <key>country<key>
-           <string>Czech Republic</string>
+           <string>Repubblica Ceca</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+236</string>
            <key>country<key>
-           <string>Central African Republic</string>
+           <string>Repubblica Centrafricana</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+1 809</string>
            <key>country<key>
-           <string>Dominican Republic</string>
+           <string>Repubblica Dominicana</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -1116,7 +1116,7 @@
            <key>code</key>
            <string>+250</string>
            <key>country<key>
-           <string>Rwanda</string>
+           <string>Ruanda</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -1128,7 +1128,7 @@
            <key>code</key>
            <string>+1 684</string>
            <key>country<key>
-           <string>American Samoa</string>
+           <string>Samoa Americane</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -1170,13 +1170,13 @@
            <key>code</key>
            <string>+963</string>
            <key>country<key>
-           <string>Syria</string>
+           <string>Siria</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+421</string>
            <key>country<key>
-           <string>Slovakia</string>
+           <string>Slovacchia</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -1188,7 +1188,7 @@
            <key>code</key>
            <string>+34</string>
            <key>country<key>
-           <string>Spain</string>
+           <string>Spagna</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -1200,13 +1200,13 @@
            <key>code</key>
            <string>+1</string>
            <key>country<key>
-           <string>United States</string>
+           <string>Stati Uniti</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+27</string>
            <key>country<key>
-           <string>South Africa</string>
+           <string>Sudafrica</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -1224,7 +1224,7 @@
            <key>code</key>
            <string>+46</string>
            <key>country<key>
-           <string>Sweden</string>
+           <string>Svezia</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -1236,7 +1236,7 @@
            <key>code</key>
            <string>+992</string>
            <key>country<key>
-           <string>Tajikistan</string>
+           <string>Tagikistan</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -1254,37 +1254,37 @@
            <key>code</key>
            <string>+672</string>
            <key>country<key>
-           <string>Australian External Territories</string>
+           <string>Territori Esterni dell'Australia</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+970</string>
            <key>country<key>
-           <string>Palestinian Territory</string>
+           <string>Territori palestinesi</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+246</string>
            <key>country<key>
-           <string>British Indian Ocean Territory</string>
+           <string>Territorio Britannico dell'Oceano Indiano</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+66</string>
            <key>country<key>
-           <string>Thailand</string>
+           <string>Thailandia</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+670</string>
            <key>country<key>
-           <string>East Timor</string>
+           <string>Timor Est</string>
         </dict>
 	<dict>
            <key>code</key>
            <string>+670</string>
            <key>country<key>
-           <string>Timor Leste</string>
+           <string>Timor Est</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -1308,7 +1308,7 @@
            <key>code</key>
            <string>+1 868</string>
            <key>country<key>
-           <string>Trinidad and Tobago</string>
+           <string>Trinidad e Tobago</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -1320,7 +1320,7 @@
            <key>code</key>
            <string>+90</string>
            <key>country<key>
-           <string>Turkey</string>
+           <string>Turchia</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -1332,7 +1332,7 @@
            <key>code</key>
            <string>+1 649</string>
            <key>country<key>
-           <string>Turks and Caicos Islands</string>
+           <string>Turks e Caicos</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -1344,7 +1344,7 @@
            <key>code</key>
            <string>+380</string>
            <key>country<key>
-           <string>Ukraine</string>
+           <string>Ucraina</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -1356,7 +1356,7 @@
            <key>code</key>
            <string>+36</string>
            <key>country<key>
-           <string>Hungary</string>
+           <string>Ungheria</string>
         </dict>
 	<dict>
            <key>code</key>
@@ -1392,7 +1392,7 @@
            <key>code</key>
            <string>+681</string>
            <key>country<key>
-           <string>Wallis and Futuna</string>
+           <string>Wallis e Futuna</string>
         </dict>
 	<dict>
            <key>code</key>
