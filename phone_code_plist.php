@@ -41,7 +41,7 @@ while (($line = fgets($handle, 4096)) !== false) {
 	<dict>
            <key>code</key>
            <string>".$phone_codes[$country]."</string>
-           <key>country<key>
+           <key>country</key>
            <string>".trim($lang_country)."</string>
         </dict>"; 
 	$out .= $str; 	
