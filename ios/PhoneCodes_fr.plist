@@ -10,7 +10,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+7 840</string>
+           <string>+840</string>
            <key>country</key>
            <string>Abkhazie</string>
         </dict>
@@ -58,13 +58,13 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 264</string>
+           <string>+264</string>
            <key>country</key>
            <string>Anguilla</string>
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 268</string>
+           <string>+268</string>
            <key>country</key>
            <string>Antigua-et-Barbuda</string>
         </dict>
@@ -130,7 +130,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 242</string>
+           <string>+242</string>
            <key>country</key>
            <string>Bahamas</string>
         </dict>
@@ -148,13 +148,13 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 246</string>
+           <string>+246</string>
            <key>country</key>
            <string>Barbade</string>
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 268</string>
+           <string>+268</string>
            <key>country</key>
            <string>Barbuda</string>
         </dict>
@@ -178,7 +178,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 441</string>
+           <string>+441</string>
            <key>country</key>
            <string>Bermudes</string>
         </dict>
@@ -364,7 +364,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 767</string>
+           <string>+767</string>
            <key>country</key>
            <string>Dominique</string>
         </dict>
@@ -478,7 +478,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 473</string>
+           <string>+473</string>
            <key>country</key>
            <string>Grenade</string>
         </dict>
@@ -496,7 +496,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 671</string>
+           <string>+671</string>
            <key>country</key>
            <string>Guam</string>
         </dict>
@@ -574,7 +574,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 808</string>
+           <string>+808</string>
            <key>country</key>
            <string>Île de Midway</string>
         </dict>
@@ -586,7 +586,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 808</string>
+           <string>+808</string>
            <key>country</key>
            <string>Île de Wake</string>
         </dict>
@@ -634,7 +634,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 670</string>
+           <string>+670</string>
            <key>country</key>
            <string>Îles Mariannes du Nord</string>
         </dict>
@@ -652,19 +652,19 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 649</string>
+           <string>+649</string>
            <key>country</key>
            <string>Îles Turques et Caïques</string>
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 340</string>
+           <string>+340</string>
            <key>country</key>
            <string>Îles Vierges américaines</string>
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 284</string>
+           <string>+284</string>
            <key>country</key>
            <string>Îles Vierges britanniques</string>
         </dict>
@@ -718,7 +718,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 876</string>
+           <string>+876</string>
            <key>country</key>
            <string>Jamaïque</string>
         </dict>
@@ -928,7 +928,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1664</string>
+           <string>+664</string>
            <key>country</key>
            <string>Montserrat</string>
         </dict>
@@ -958,7 +958,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 869</string>
+           <string>+869</string>
            <key>country</key>
            <string>Nevis</string>
         </dict>
@@ -1084,7 +1084,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 787</string>
+           <string>+787</string>
            <key>country</key>
            <string>Puerto Rico</string>
         </dict>
@@ -1108,7 +1108,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 809</string>
+           <string>+809</string>
            <key>country</key>
            <string>République dominicaine</string>
         </dict>
@@ -1150,7 +1150,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 684</string>
+           <string>+684</string>
            <key>country</key>
            <string>Samoa américaines</string>
         </dict>
@@ -1324,7 +1324,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 868</string>
+           <string>+868</string>
            <key>country</key>
            <string>Trinité-et-Tobago</string>
         </dict>

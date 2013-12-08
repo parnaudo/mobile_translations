@@ -40,7 +40,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+7 840</string>
+           <string>+840</string>
            <key>country</key>
            <string>アブハジア</string>
         </dict>
@@ -52,13 +52,13 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 684</string>
+           <string>+684</string>
            <key>country</key>
            <string>アメリカンサモア</string>
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 340</string>
+           <string>+340</string>
            <key>country</key>
            <string>アメリカ領ヴァージン諸島</string>
         </dict>
@@ -100,7 +100,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 264</string>
+           <string>+264</string>
            <key>country</key>
            <string>アンギラ</string>
         </dict>
@@ -112,7 +112,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 268</string>
+           <string>+268</string>
            <key>country</key>
            <string>アンチグアバーブーダ</string>
         </dict>
@@ -148,7 +148,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 284</string>
+           <string>+284</string>
            <key>country</key>
            <string>イギリス領ヴァージン諸島</string>
         </dict>
@@ -190,7 +190,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 808</string>
+           <string>+808</string>
            <key>country</key>
            <string>ウェーク島</string>
         </dict>
@@ -412,7 +412,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 671</string>
+           <string>+671</string>
            <key>country</key>
            <string>グアム島</string>
         </dict>
@@ -448,7 +448,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 473</string>
+           <string>+473</string>
            <key>country</key>
            <string>グレナダ</string>
         </dict>
@@ -568,7 +568,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 876</string>
+           <string>+876</string>
            <key>country</key>
            <string>ジャマイカ</string>
         </dict>
@@ -670,7 +670,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 649</string>
+           <string>+649</string>
            <key>country</key>
            <string>タークスカイコス諸島</string>
         </dict>
@@ -754,19 +754,19 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 809</string>
+           <string>+809</string>
            <key>country</key>
            <string>ドミニカ共和国</string>
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 767</string>
+           <string>+767</string>
            <key>country</key>
            <string>ドミニカ国</string>
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 868</string>
+           <string>+868</string>
            <key>country</key>
            <string>トリニダードトバゴ</string>
         </dict>
@@ -844,7 +844,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 869</string>
+           <string>+869</string>
            <key>country</key>
            <string>ネビス島</string>
         </dict>
@@ -862,7 +862,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 268</string>
+           <string>+268</string>
            <key>country</key>
            <string>バービュダ島</string>
         </dict>
@@ -898,7 +898,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 242</string>
+           <string>+242</string>
            <key>country</key>
            <string>バハマ</string>
         </dict>
@@ -910,7 +910,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 441</string>
+           <string>+441</string>
            <key>country</key>
            <string>バミューダ</string>
         </dict>
@@ -928,7 +928,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 246</string>
+           <string>+246</string>
            <key>country</key>
            <string>バルバドス</string>
         </dict>
@@ -976,7 +976,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 787</string>
+           <string>+787</string>
            <key>country</key>
            <string>プエルトリコ</string>
         </dict>
@@ -1192,7 +1192,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 808</string>
+           <string>+808</string>
            <key>country</key>
            <string>ミッドウェー島</string>
         </dict>
@@ -1258,7 +1258,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1664</string>
+           <string>+664</string>
            <key>country</key>
            <string>モントセラト</string>
         </dict>
@@ -1366,7 +1366,7 @@
         </dict>
 	<dict>
            <key>code</key>
-           <string>+1 670</string>
+           <string>+670</string>
            <key>country</key>
            <string>北マリアナ諸島連邦</string>
         </dict>
