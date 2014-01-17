@@ -1,5 +1,5 @@
 <?php 
-
+require "smartlingDownloadClass.php";
 function get_locales($key,$project){
 	$ch = curl_init();
 	$curlConfig = array(
@@ -79,21 +79,35 @@ function get_translations($uris,$languages,$key,$project){
 			//var_dump($curlConfig);
 			curl_setopt_array($ch, $curlConfig);
 			$result = curl_exec($ch);
-			$filename="translations/$type$file-$language";
+			$filename=format_filename($type,$language,$file);
 			file_put_contents($filename,$result);
 			//$result=json_decode($result,1);
-			print "Placing ".urlencode($filename)." file translation for this language: $language \n";
+			print "Creating ".$filename." file translation for this language: $language \n";
 		}
 	}
 	
 }
 
+function format_filename($type,$language,$file){
+	$base="translations/$type/";
+	if($type=="yaml"){
+		$language=str_replace("-en","",$language);
+		$filename=$base."$language.yml";
+	}
+	else{
+		$file=str_replace("/files/","$language-",$file);
+		$filename=$base."$file";
+	}
+	return $filename;
+}
 
 
-$key="fdc6e190-e855-4588-bfe0-74b7006aeab1";
-$project="59d739850";
-$uris=get_uris($key,$project);
-$languages=get_locales($key,$project);
-get_translations($uris,$languages,$key,$project);
+
+//$test=new smartling_downloader($key,$project);
+
+
+$uris = get_uris ( $key, $project );
+$languages = get_locales ( $key, $project );
+get_translations ( $uris, $languages, $key, $project );
 
 ?>
