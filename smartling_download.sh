@@ -14,9 +14,9 @@ if [ ! -d "translations/yaml/files" ]; then
         mkdir "translations/yaml"
         printf "NO yaml/files"
 fi
-#php smartling_download.php
-cd ..
-sh mobile_translations/ios_copy.sh
-
-cp mobile_translations/translations/yaml/* ../SmugChatRuby/config/locales/
-cd SmugChatRuby/config/locales/
+#get new files from smartling
+php smartling_download.php
+#copy over ios annoying because files don't match up with folders
+sh ios_copy.sh
+#copy over ruby files
+cp translations/yaml/* ../SmugChatRuby/config/locales/

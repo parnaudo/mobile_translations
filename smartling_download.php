@@ -1,5 +1,15 @@
 <?php 
-require "smartlingDownloadClass.php";
+//PUT IN KEYS HERE
+$key="";
+$project="";
+if(empty($key) || empty($project)){
+	print "Please enter your Smartling API key and project ID above";
+	exit;
+}
+$uris = get_uris ( $key, $project );
+$languages = get_locales ( $key, $project );
+get_translations ( $uris, $languages, $key, $project );
+
 function get_locales($key,$project){
 	$ch = curl_init();
 	$curlConfig = array(
@@ -101,13 +111,5 @@ function format_filename($type,$language,$file){
 	return $filename;
 }
 
-
-
-//$test=new smartling_downloader($key,$project);
-
-
-$uris = get_uris ( $key, $project );
-$languages = get_locales ( $key, $project );
-get_translations ( $uris, $languages, $key, $project );
 
 ?>
