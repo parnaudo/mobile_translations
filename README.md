@@ -1,4 +1,4 @@
 mobile_translations
 ===================
 
-Scripts for translating iOS and Android Apps
+Scripts to help automate for translating iOS and Android Apps
