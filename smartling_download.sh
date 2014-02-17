@@ -16,6 +16,8 @@ if [ ! -d "translations/yaml/files" ]; then
 fi
 #get new files from smartling
 php smartling_download.php
+#copy over android
+sh android_copy.sh
 #copy over ios annoying because files don't match up with folders
 sh ios_copy.sh
 #copy over ruby files
